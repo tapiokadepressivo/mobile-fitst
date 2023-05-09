@@ -1,7 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-</body>
-</html>
+:root {
+--cor-de-fundo: #EBECEE;
+}
+body {
+background-color: var(--cor-de-fundo);
+}
