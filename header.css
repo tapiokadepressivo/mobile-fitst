@@ -4,4 +4,7 @@
   background-image:url("../img/Menu.svg");
   background-repeat:no-repeat;
   background-position:center;
-  display:inline-
+  display:inline-block;
+}
+
+.contanier_botao:checked~container_rotulo>.cabeçalho
