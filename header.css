@@ -7,4 +7,5 @@
   display:inline-block;
 }
 
-.contanier_botao:checked~container_rotulo>.cabeçalho
+.contanier_botao:checked~container_rotulo>.cabeçalho_menu-hamburger {
+background-image
