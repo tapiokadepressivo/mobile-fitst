@@ -1,11 +1,1 @@
-.cabeçalho_menu-hanburguer {
-  width:24px;
-  height:24px;
-  background-image:url("../img/Menu.svg");
-  background-repeat:no-repeat;
-  background-position:center;
-  display:inline-block;
-}
 
-.contanier_botao:checked~container_rotulo>.cabeçalho_menu-hamburger {
-background-image
