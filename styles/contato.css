@@ -1,11 +1,9 @@
-.cabeçalho_menu-hamburger{
-  width:24px;
-    width:24px;
-  background-image:url("../img/Menu.svg");
-  background-repeat:no-repeat
-  background-position:center;
-  display:inline-block
+.contato{
+  background-color: var(--branco)
+    padding: 1em;
 }
 
-.container_botao:checked~.container_rotulo>.cabeçalho_menu-hamburguer{
-  background-image: url("../img/MENU ABERTO.svg")
+.contato_titulo,
+.contato_texto{
+  background: var(--azul-degrade);
+  -we
