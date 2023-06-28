@@ -64,4 +64,56 @@
                                                                                                                                            <li class="opções__item"><a href="#" class="opções__link">Favoritos</a></li>
                                                                                                                                            <li class="opções__item"><a href="#" class="opções__link">Minha estante</a></li>
                                                                                                                                            </ul>
+<div class="container">
+    <a href="#"><img src="img/Favoritos.svg" alt="Meus favoritos" class="container__imagem container__imagem__transparente"></a>
+    <a href="3' class="container__link">
+      <img src="img/Compras.svg" alt="Carrinhos de compras" class="container__imagem">
+      <p class="container__texto">Minha sacola</p>
+    </a>
+    <a href="#" class"container__link">
+      <img scr="img/Usuario.svg" alt="Meu perfil" class="container__imagem">
+      <p class="container__texto">Meu perfil</p>
+    </a>
+  </div>
+</header>
+    <section class="banner">
+      <h2 class="banner__titulo">já sabe por onde começar?</h2>
+      <p class="banner__texto">Encontre em nossa estante o que precisa seu desenvolvimento!</p>
+      <input type="search" class="banner__pesquisa"placeholder="Qual será sua próxima leitura?">
+    </section>
+  <section class="carrossel">
+    <h2 class="carrossel__titulo">Novo lançamentos</h2>
+    <!--Slider main container-->
+    <div class="carrossel__container">
+      <div class="swiper">
+        <!--Additional required wrapper-->
+        <!--If we need pagination-->
+        <div class="swipper-pagination"></div>
+        <div class="swipper-wrapper">
+          <!--Slides-->
+          <div class="swiper-slide"><img src="img/ApacheKafka.svg"
+alt="Livro sobre Apache kafka e spring boot da alura books"></div>
+          <div class"swiper-slide"><img src="img/Liderança.svg"
+                                     alt="Livro sobre liderança em design da alura books"></div>
+          <div class="swiper-slide"><imgsrc="img/Javascript.svg"
+            alt="Livro sobre javascript assertivo da Alurabooks"></div>
+       <div class="swiper-slide"><img src=""img/Guia Front-edd.svg"
+                                      alt="Livro Guia front end"></div>
+          <div class="swiper-slide"><img src="img/Portugol.svg"
+                                      alt="livro sobre portugol"></div>
+          <div class="swiper-slide"><img src="img/Acesssibilidade.svg" alt=livro sobre acessibilidade"></div>
+        </div>
+        <!--If we need navigation buttons-->
+        <divv class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+    </div>
+  <div class='card">
+    <!--1º linha-->
+    <div class="card__descrição">
+    <!--1º coluna-->
+    <div class="descrição">
+    <h3 class="descrição__titulo">Talvez você também se intesse por...</h3>
+    <h2 class="descrição__titulo-livro">Angular 11 e firebase</h2>
+    <p class="descrição__texto">Construindo uma aplicação integrada com apaltaforma do Google.</p>
+    </div>
   
